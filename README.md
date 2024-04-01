@@ -3,7 +3,7 @@ Here You can find a Python notebook that provides you basic code and understandi
 Two python libraries that I've used are
      - Pandas 
      - Seaborn
-Iam providing the links below for the libraries used, You can use them for your reference to develop the code further and play wit5h the dataset
+Iam providing the documentation links below for the libraries used, You can use them for your reference to develop the code further and play with the dataset
 
 
 https://pandas.pydata.org/docs/user_guide/10min.html
